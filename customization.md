@@ -16,7 +16,7 @@
               <img src="images/profile.png" alt="profile">
             </picture>
             <div class="content">
-              <p class="detail">Ananya's Profile</p>
+              <p class="detail">Ananyas Profile</p>
                 <h1>Ananya Gaurav</h1>
               <p>
                 I love to play the piano.
