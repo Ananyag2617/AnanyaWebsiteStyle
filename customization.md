@@ -12,7 +12,7 @@
         <main>
           <article class="profile">
             <picture class="profile-img">
-              <source srcset="images/profile.png" media="(min-width: 600px)">
+              <source srcset="images/ananya.png" media="(min-width: 600px)">
               <img src="images/profile.png" alt="profile">
             </picture>
             <div class="content">
