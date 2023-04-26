@@ -32,7 +32,7 @@ For my cpt project, something that I used from this lesson is bootstrap. I used 
 
 <h2>1. What are some of the best practices for creating effective wire-frames in computer science? How do wire-frames help with the design process?</h2>
 
-It's important to set goals beforehand,  keeping the wireframes simple and easy to use so the user can easily explore it and focusing on user experience. By offering a clear and visible image of the product's layout and functionality, wireframes are an essential tool in the design process. They assist designers in prioritizing user needs and preferences, establishing a shared understanding among stakeholders, developing communication and teamwork within the team, and experimenting with numerous design choices. 
+Its important to set goals beforehand,  keeping the wireframes simple and easy to use so the user can easily explore it and focusing on user experience. By offering a clear and visible image of the product's layout and functionality, wireframes are an essential tool in the design process. They assist designers in prioritizing user needs and preferences, establishing a shared understanding among stakeholders, developing communication and teamwork within the team, and experimenting with numerous design choices. 
 
 
 <h2>2. How does user testing play a role in the design of user interfaces and wire-frames in computer science? Can you provide an example of a project where user testing significantly impacted the final product design?</h2>
