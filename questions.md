@@ -13,13 +13,6 @@
 <h2>Write about how you plan to use what you learned in this lesson to improve your CPT project.</h2>
 For my cpt project, something that I used from this lesson is bootstrap. I used it to make my website more interactive and a bit more professenial in terms of looks and even the website features. In order to do this I found a webite and used different class methods that the wesite provided. Here is a line of code where I used bootstrap: <button class="btn btn-primary mb-3 position-absolute top-160 start-50 translate-middle" onclick="addFood()">Add"
 
-<h2>Before using bootstrap<h2>
-<img src="{{site.baseurl}}/images/websitebefore1.png" width="1000" height="600"> 
-<img src="{{site.baseurl}}/images/websitebefore2.png" width="1000" height="600"> 
-
-<h2>After using bootstrap<h2>
-<img src="{{site.baseurl}}/images/websiteafter1.png" width="1000" height="600"> 
-<img src="{{site.baseurl}}/images/websiteafter2.png" width="1000" height="600"> 
 
 
 
