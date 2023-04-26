@@ -1,4 +1,3 @@
-<!--Start of Website Content-->
 <html>
     <head>
     <link rel="stylesheet" href="questions.css">
@@ -9,7 +8,6 @@
     <p>Questions based on each section of the Lesson</p>
 </div>
 
-<!--Answer the QUESTIONS based on the lesson provided-->
 <div>
 
 <h2>Write about how you plan to use what you learned in this lesson to improve your CPT project.</h2>
